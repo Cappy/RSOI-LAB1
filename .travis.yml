@@ -11,8 +11,8 @@ script:
   dotnet build RSOILab1.sln -c Release
 
 
-deploy:
+deploy: 
   provider: heroku
-  buildpack: http://github.com/noliar/dotnet-buildpack.git
+  buildpack: eric/dotnetcore-with-migration-newrelic
   api_key: 1d8e023e-2cc2-4ebe-a800-203bc102b8e3
   app: rsoilab
