@@ -4,4 +4,5 @@ solution RSOILab1.sln
 deploy:
   provider: heroku
   api_key:
-    secure: HTtHBZSnc1iTZkiCVFGzdQ
+    secure: 1d8e023e-2cc2-4ebe-a800-203bc102b8e3
+  app: RSOILab1
