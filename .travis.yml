@@ -1,5 +1,10 @@
-language csharp
-solution RSOILab1.sln
+language: csharp
+sudo: required
+dotnet: 2.1.402
+solution: RSOILab1.sln
+dist: trusty  
+mono: none
+
 
 deploy:
   provider: heroku
