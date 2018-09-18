@@ -14,5 +14,5 @@ script:
 deploy:
   provider: heroku
   buildpack: http://github.com/noliar/dotnet-buildpack.git
-  api_key: $HEROKU_AUTH_TOKEN
+  api_key: 1d8e023e-2cc2-4ebe-a800-203bc102b8e3
   app: rsoilab
