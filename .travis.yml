@@ -12,7 +12,5 @@ script:
 
 
 deploy: 
-  provider: heroku
-  buildpack: eric/dotnetcore-with-migration-newrelic
-  api_key: 1d8e023e-2cc2-4ebe-a800-203bc102b8e3
-  app: rsoilab
+  provider: azure_web_apps
+  verbose: true
