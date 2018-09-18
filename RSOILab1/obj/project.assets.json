@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cappy\\source\\repos\\RSOILab1\\RSOILab1\\RSOILab1.csproj",
+      "projectUniqueName": "C:\\Users\\cappy\\Documents\\GitHub\\RSOI-LAB1\\RSOILab1\\RSOILab1.csproj",
       "projectName": "RSOILab1",
-      "projectPath": "C:\\Users\\cappy\\source\\repos\\RSOILab1\\RSOILab1\\RSOILab1.csproj",
+      "projectPath": "C:\\Users\\cappy\\Documents\\GitHub\\RSOI-LAB1\\RSOILab1\\RSOILab1.csproj",
       "packagesPath": "C:\\Users\\cappy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cappy\\source\\repos\\RSOILab1\\RSOILab1\\obj\\",
+      "outputPath": "C:\\Users\\cappy\\Documents\\GitHub\\RSOI-LAB1\\RSOILab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
