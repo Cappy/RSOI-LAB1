@@ -1,6 +1,6 @@
 language: csharp
 sudo: required
-dotnet: 2.1.402
+dotnet: 2.1.300
 solution: RSOILab1.sln
 dist: trusty  
 mono: none
