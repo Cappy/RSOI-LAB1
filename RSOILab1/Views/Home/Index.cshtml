@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    string name;
+    int?[] nums;
+
+    if (ViewBag.name != null)
+    {
+        name = ViewBag.name;
+    }
+    else
+    {
+        name = "defaultuser";
+    }
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Здравствуйте, @name! Текущее время: @DateTime.Now.ToString("HH:mm").</p>
+
+@{  
+    nums = ViewBag.nums;
+    if (nums.Length != 0)
+    {
+        <p>Сумма элементов массива равна @nums.Sum()</p>
+    }
+ }
+
