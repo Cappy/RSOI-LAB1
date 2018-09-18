@@ -13,7 +13,7 @@ script:
 
 deploy: 
   provider: azure_web_apps
-  username: $rsoilab       # If AZURE_WA_USERNAME isn't set
+  username: rsoilab       # If AZURE_WA_USERNAME isn't set
   password: NimAu39xtmldFY9reiDik5YXzcbPiWTHvcAWqk1atjsyzqrQZf5CDEd6g1gj   # If AZURE_WA_PASSWORD isn't set
   site: rsoilab       # If AZURE_WA_SITE isn't set
   verbose: true
