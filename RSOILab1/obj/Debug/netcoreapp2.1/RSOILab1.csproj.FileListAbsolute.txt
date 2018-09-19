@@ -41,7 +41,6 @@ C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOIL
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.csproj.CoreCompileInputs.cache
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.RazorAssemblyInfo.cache
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.RazorAssemblyInfo.cs
-C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.AssemblyInfoInputs.cache
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.AssemblyInfo.cs
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.TagHelpers.input.cache
@@ -63,3 +62,4 @@ C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOIL
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.dll
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.pdb
 C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\RSOILab1.csproj.CopyComplete
+C:\Users\cappy\Documents\GitHub\RSOI-LAB1\RSOILab1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
