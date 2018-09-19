@@ -3,11 +3,10 @@ sudo: required
 dotnet: 2.1.300
 solution: RSOILab1.sln
 dist: trusty  
-mono: none
 
 install:
   - dotnet restore RSOILab1.sln
-  - dotnet install xunit.runners -Version 1.9.2 -OutputDirectory testrunner
+  - nuget install xunit.runners -Version 1.9.2 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release RSOILab1.sln
   - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.exe ./UnitTests/bin/Release/netcoreapp2.1/UnitTests.dll
